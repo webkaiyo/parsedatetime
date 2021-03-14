@@ -98,7 +98,7 @@ Modifiers = {
     'atrás': -1,
     'atras': -1,
     'prévio': -1,
-    'previo': -1
+    'previo': -1,
     'anterior': -1,
     'última': -1,
     'ultima': -1
