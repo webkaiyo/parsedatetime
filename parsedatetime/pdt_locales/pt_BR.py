@@ -101,13 +101,13 @@ Modifiers = {
     'previo': -1,
     'anterior': -1,
     'última': -1,
-    'ultima': -1
+    'ultima': -1,
     'próxima': 1,
-    'proxima': 1
+    'proxima': 1,
     'previous': -1,
     'fim da': 0,
     'fim de': 0,
-    'fim do': 0
+    'fim do': 0,
     'essa': 0,
     'esse': 0,
     'fdd': 1,
@@ -117,7 +117,7 @@ Modifiers = {
 
 dayOffsets = {
     'amanhã': 1,
-    'amanha': 1
+    'amanha': 1,
     'hoje': 0,
     'ontem': -1,
 }
@@ -160,7 +160,7 @@ small = {
     'doze': 12,
     'treze': 13,
     'catorze': 14,
-    'quatorze': 14
+    'quatorze': 14,
     'quinze': 15,
     'dezesseis': 16,
     'dezessete': 17,
