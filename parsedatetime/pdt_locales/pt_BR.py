@@ -201,4 +201,4 @@ magnitude = {
     'decilhao': 1000000000000000000000000000000000,
 }
 
-ignore = ('e', ',', 'a partir de agora')
+ignore = ('e', ',', 'a partir de agora', 'em')
